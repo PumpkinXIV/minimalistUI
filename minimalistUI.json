@@ -1,0 +1,12 @@
+ {
+    "author" : "Pumpkin", 
+    "name" : "minimalistUI", 
+    "keyWords" : "keyword1,keyword2",
+    "version" : "1.0.0",
+    "dofusVersion" : "2.64", 
+    "description" : "Description de mon theme", 
+    "url" : "http://mywebsite.com/mytheme.zip",
+    "previewUrl" : "http://mywebsite.com/preview.jpg", 
+    "creationDate" : "16/06/2022", 
+    "modificationDate" : "16/06/2022"
+    } 

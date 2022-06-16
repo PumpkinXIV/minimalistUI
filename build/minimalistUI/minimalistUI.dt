@@ -1,0 +1,11 @@
+<theme>
+    <name>minimalistUI</name>
+    <skinType>1</skinType>
+    <description>Description du theme</description>
+    <author>Pumpkin</author>
+    <version>1.0.0</version>
+    <dofusVersion>2.64</dofusVersion> 
+    <creationDate>16/06/2022</creationDate> 
+    <modificationDate>16/06/2022</modificationDate> 
+</theme>
+ 
